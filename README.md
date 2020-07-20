@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 # 目录
 ### dubbo
-1. **[编解码](dubbo/dubbo_Codec.md)**
+1. **[编解码](note/blob/master/dubbo/dubbo_Codec.md)**
 ### linux
 #### 命令
 ### zookeeper
-1. **[源码整体介绍](bee06/note/blob/master/zookeeper/source_introduce.md)**
+1. **[源码整体介绍](note/blob/master/zookeeper/source_introduce.md)**
 ### redis
-1. **[数据类型](redis/data_type_introduce.md)**
+1. **[数据类型](note/blob/master/redis/data_type_introduce.md)**
 ### spring
 ### netty
-1. **[问题点](netty&nio/question.md)**
+1. **[问题点](note/blob/master/netty&nio/question.md)**
 ### 思维
-1. **[如何学习](thinking/how_do_study.md)**
+1. **[如何学习](note/blob/master/thinking/how_do_study.md)**
 ### 提高效率
-1. **[工具](dev_tools.md)**
+1. **[工具](note/blob/master/dev_tools.md)**
 ### 常用网站导航
 1. **[dubbo官方](http://dubbo.apache.org/zh-cn/index.html)**
 2. **[sentinel](https://github.com/sentinel-group/sentinel-awesome)**
