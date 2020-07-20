@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### linux
 #### 命令
 ### zookeeper
-1. **[源码整体介绍](zookeeper/source_introduce.md)**
+1. **[源码整体介绍](bee06/note/blob/master/zookeeper/source_introduce.md)**
 ### redis
 1. **[数据类型](redis/data_type_introduce.md)**
 ### spring
