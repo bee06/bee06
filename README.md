@@ -3,8 +3,6 @@
 <a href="https://github.com/bee06"><img src="https://komarev.com/ghpvc/?username=bee06">&nbsp;&nbsp;
 </a>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
 
 ### 我是Bee06 👋
 
