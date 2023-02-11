@@ -20,8 +20,6 @@
 <img align="left" width="25" height="25" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/5bbdaacf63ed239936a7dd56/elastic-logo.svg">
 <img align="left" width="25" height="25" src="https://hbase.apache.org/images/hbase_logo.png">
 <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-<img align="left" width="25" height="25" src="https://rocketmq.apache.org/img/Apache_RocketMQ_logo.svg.png">
-<img align="left" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="left" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 <img align="left" width="25" height="25" src="https://avatars1.githubusercontent.com/u/3380462?s=200&v=4">
