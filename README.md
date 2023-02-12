@@ -7,7 +7,6 @@
 ### 我是Bee06 👋
 
 - 🔭 I’m Java engineer
-- 🌱 I’m working in hangzhou
 - 👯 I’m like openSource
 
   
