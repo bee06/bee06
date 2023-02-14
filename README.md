@@ -1,5 +1,5 @@
 <!-- first row -->
-<p align="center">
+<p align="left">
 <a href="https://github.com/bee06"><img src="https://komarev.com/ghpvc/?username=bee06">&nbsp;&nbsp;
 </a>
 
