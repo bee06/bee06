@@ -4,7 +4,7 @@
 </a>
 
 
-### 我是Bee06 👋
+### 我是Bee06 👋 👋
 
 - 🔭 I’m Java engineer
 - 👯 I’m like openSource
