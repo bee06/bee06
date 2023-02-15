@@ -25,12 +25,12 @@ jobs:
         python-version: "3.10"
     - name: Install dependencies
       run: |
-        cd bee06/
+        
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     
     - name: Run
       run: |
-         cd bee06/
+
          python github_actions_python.py
